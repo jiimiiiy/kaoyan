@@ -1,0 +1,8 @@
+node_modules/
+.workbuddy/
+*.log
+.DS_Store
+.env
+
+# 不要把真实密钥提交进仓库
+!cloudbaserc.json
